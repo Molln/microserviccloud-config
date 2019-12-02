@@ -5,11 +5,11 @@ spring:
     
 ---
 spring:
-  profiles:dev
+  profiles: dev
   application:
     name: microservicecloud-dev
 ---
 spring:
-  profiles:test
+  profiles: test
   application:
     name: microservicecloud-test
