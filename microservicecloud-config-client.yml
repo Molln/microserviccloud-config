@@ -29,4 +29,4 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://localeureka1:7001/eureka/
+      defaultZone: http://localeureka1:7005/eureka/
